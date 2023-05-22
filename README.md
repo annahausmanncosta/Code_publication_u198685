@@ -12,6 +12,8 @@ I propose an algorithm based on self-adaptation which, starting from a selection
 
 
 
+
+
 Bibliography
 
 [1] Zaforas Martín, M. (2008). Implementación de un algoritmo evolutivo basado en MOS. https://oa.upm.es/1112/1/PFC_MANUEL_ZAFORAS.pdf 
@@ -19,10 +21,18 @@ Bibliography
 
 
 
+
+
+
+
 License Creative-Common (CC 4.0)
 
 Author contact
+
 Anna Hausmann
+
 C\ Muntaner 302,
+
 08021 Barcelona, Spain
+
 anna.hausmann01@estudiant.upf.edu
